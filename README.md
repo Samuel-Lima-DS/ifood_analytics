@@ -1,43 +1,14 @@
-## Dicionário de dados
+# iFood - Análise de Dados
 
-Dados pessoais
+# 1 - Problema de Negócio
 
-- `ID`: Identificador único do cliente
-- `Year_Birth`: Ano de nascimento do cliente
-- `Education`: Nível de educação do cliente
-- `Marital_Status`: Estado civil do cliente
-- `Income`: Renda anual da família do cliente
-- `Kidhome`: Número de crianças na casa do cliente
-- `Teenhome`: Número de adolescentes na casa do cliente
-- `Dt_Customer`: Data de inscrição do cliente na empresa
-- `Recency`: Número de dias desde a última compra do cliente
-- `Complain`: 1 se o cliente reclamou nos últimos 2 anos, 0 caso contrário
+Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos. Atualmente, eles têm cerca de vários milhares de clientes registrados e atendem quase um milhão de consumidores por ano. Eles vendem produtos de 5 grandes categorias: vinhos, carnes, frutas exóticas, peixes especialmente preparados e produtos doces. Estes podem ser divididos ainda mais em produtos de gold e regulares. Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas: lojas físicas, catálogos e site da empresa. Globalmente, a empresa teve receitas sólidas e uma linha de fundo saudável nos últimos 3 anos, mas as perspectivas de crescimento dos lucros para os próximos 3 anos não são promissoras... Por esse motivo, várias iniciativas estratégicas estão sendo consideradas para inverter essa situação. Um deles é melhorar o desempenho das atividades de marketing, com foco especial em campanhas de marketing.
 
-Dados de produtos
+# 2 - Premissas de Negócio 
+Os dados utilizados foram disponibizado no processo seletivo para Analista de Dados da empresa iFood, onde esta localizado neste link: [link_repositorio](https://github.com/ifood/ifood-data-business-analyst-test)
 
-- `MntWines`: Valor gasto em vinho nos últimos 2 anos
-- `MntFruits`: Valor gasto em frutas nos últimos 2 anos
-- `MntMeatProducts`: Valor gasto em carne nos últimos 2 anos
-- `MntFishProducts`: Valor gasto em peixe nos últimos 2 anos
-- `MntSweetProducts`: Valor gasto em doces nos últimos 2 anos
-- `MntGoldProds`: Valor gasto em produtos *gold* nos últimos 2 anos
 
-Dados de campanha
 
-- `NumDealsPurchases`: Número de compras feitas com desconto
-- `AcceptedCmp1`: 1 se o cliente aceitou a oferta na 1ª campanha, 0 caso contrário
-- `AcceptedCmp2`: 1 se o cliente aceitou a oferta na 2ª campanha, 0 caso contrário
-- `AcceptedCmp3`: 1 se o cliente aceitou a oferta na 3ª campanha, 0 caso contrário
-- `AcceptedCmp4`: 1 se o cliente aceitou a oferta na 4ª campanha, 0 caso contrário
-- `AcceptedCmp5`: 1 se o cliente aceitou a oferta na 5ª campanha, 0 caso contrário
-- `Response`: 1 se o cliente aceitou a oferta na última campanha (piloto), 0 caso contrário (*target*)
 
-Dados de local de compra
-
-- `NumWebPurchases`: Número de compras feitas através do site da empresa
-- `NumCatalogPurchases`: Número de compras feitas usando um catálogo
-- `NumStorePurchases`: Número de compras feitas diretamente nas lojas
-- `NumWebVisitsMonth`: Número de visitas ao site da empresa no último mês
-# ifood_analytics
 
 
