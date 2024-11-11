@@ -14,6 +14,33 @@ O objetivo definido junto a equipe de marketing é separar os tipos de clientes 
 ![clusters](
     img/clusters.png)
 
+Análise por cluster:
+
+- Cluster 0: 
+  - Renda alta 
+  - gasto alto 
+  - muito provalmente não tem filhos
+  - mais propenso a aceitar campanhas
+  - cluster sem pessoas com escolaridade básica
+  - sem um perfil de idade que se destaque
+  
+
+- Cluster 1: 
+  - Renda baixa 
+  - gasto baixo 
+  - provalmente tem filhos
+  - baixa propensão a aceitar campanhas
+  - único cluster com porcentagem significativa de pessoas com escolaridade básica
+  - pessoas mais jovens
+  
+
+- Cluster 2: 
+  - Renda intermediária
+  - gasto intermediário
+  - provalmente tem filhos
+  - pode aceitar campanhas
+  - pessoas com idade mais elevada
+
 
 
 
