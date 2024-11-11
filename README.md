@@ -7,6 +7,13 @@ Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos.
 # 2 - Premissas de Negócio 
 Os dados utilizados foram disponibizado no processo seletivo para Analista de Dados da empresa iFood, onde esta localizado neste link: [link_repositorio](https://github.com/ifood/ifood-data-business-analyst-test)
 
+# 3 - Estratégia de Solução
+O objetivo definido junto a equipe de marketing é separar os tipos de clientes com as informações de dados disponivéis , sendo assim podendo tomar decisões mais correta para que tipo de cliente e podendo descobrir o comportamento e caracteristicas de cada grupo(cluster).
+
+# 4 - Insights
+![clusters](
+    img/clusters.png)
+
 
 
 
