@@ -40,7 +40,23 @@ Análise por cluster:
   - provalmente tem filhos
   - pode aceitar campanhas
   - pessoas com idade mais elevada
+ 
+# 5 - Conclusão
+O marketing poderá agir de forma mais acertiva ao entrar em contatos com clientes, pois possue as informações que descrevem os comportamentos e características do grupo que o cliente pertence. 
 
+# 6 - Para reproduzir o projeto
+
+O projeto foi desenvolvido utilizando o Python 3.12.1. Para reproduzir o projeto, crie um ambiente virtual com o Conda, ou ferramenta similar, com o Python 3.12.1 e instale as bibliotecas abaixo:
+
+-------------------- | ----------
+      Package        |  Version  
+-------------------- | ----------
+Imbalanced-Learn     |     0.12.4
+Matplotlib           |      3.9.2
+NumPy                |      2.1.3
+Pandas               |      2.2.3
+Scikit-Learn         |      1.5.2
+Seaborn              |     0.13.2
 
 
 
