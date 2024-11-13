@@ -48,7 +48,7 @@ O marketing poderá agir de forma mais acertiva ao entrar em contatos com client
 
 O projeto foi desenvolvido utilizando o Python 3.12.1. Para reproduzir o projeto, crie um ambiente virtual com o Conda, ou ferramenta similar, com o Python 3.12.1 e instale as bibliotecas abaixo:
 
--------------------- | ----------
+
       Package        |  Version  
 -------------------- | ----------
 Imbalanced-Learn     |     0.12.4
